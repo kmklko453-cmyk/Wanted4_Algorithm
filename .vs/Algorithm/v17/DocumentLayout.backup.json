@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\CppBasic\\Algorithm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D289F56-D07F-4536-8ABC-9E68CC77AE2D}|Random\\Random.vcxproj|C:\\CppBasic\\Algorithm\\Random\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4D289F56-D07F-4536-8ABC-9E68CC77AE2D}|Random\\Random.vcxproj|solutionrelative:Random\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81A7E208-4A69-4CE7-AC92-E4EBB9465116}|BinarySearch\\BinarySearch.vcxproj|C:\\CppBasic\\Algorithm\\BinarySearch\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{81A7E208-4A69-4CE7-AC92-E4EBB9465116}|BinarySearch\\BinarySearch.vcxproj|solutionrelative:BinarySearch\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{40D34375-EEA3-457A-B42E-57C9CF98F116}|BubbleSort\\BubbleSort.vcxproj|C:\\CppBasic\\Algorithm\\BubbleSort\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40D34375-EEA3-457A-B42E-57C9CF98F116}|BubbleSort\\BubbleSort.vcxproj|solutionrelative:BubbleSort\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,26 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\CppBasic\\Algorithm\\Random\\main.cpp",
-              "RelativeDocumentMoniker": "Random\\main.cpp",
-              "ToolTip": "C:\\CppBasic\\Algorithm\\Random\\main.cpp*",
-              "RelativeToolTip": "Random\\main.cpp*",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBsAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\CppBasic\\Algorithm\\BubbleSort\\main.cpp",
+              "RelativeDocumentMoniker": "BubbleSort\\main.cpp",
+              "ToolTip": "C:\\CppBasic\\Algorithm\\BubbleSort\\main.cpp",
+              "RelativeToolTip": "BubbleSort\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-24T01:56:10.608Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\CppBasic\\Algorithm\\BinarySearch\\main.cpp",
-              "RelativeDocumentMoniker": "BinarySearch\\main.cpp",
-              "ToolTip": "C:\\CppBasic\\Algorithm\\BinarySearch\\main.cpp",
-              "RelativeToolTip": "BinarySearch\\main.cpp",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAmwEoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-24T01:05:41.22Z",
+              "WhenOpened": "2026-02-24T05:07:56.147Z",
               "EditorCaption": ""
             }
           ]
