@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CppBasic\\Algorithm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D289F56-D07F-4536-8ABC-9E68CC77AE2D}|Random\\Random.vcxproj|C:\\CppBasic\\Algorithm\\Random\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D289F56-D07F-4536-8ABC-9E68CC77AE2D}|Random\\Random.vcxproj|solutionrelative:Random\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A7E208-4A69-4CE7-AC92-E4EBB9465116}|BinarySearch\\BinarySearch.vcxproj|C:\\CppBasic\\Algorithm\\BinarySearch\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81A7E208-4A69-4CE7-AC92-E4EBB9465116}|BinarySearch\\BinarySearch.vcxproj|solutionrelative:BinarySearch\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\CppBasic\\Algorithm\\Random\\main.cpp",
+              "RelativeDocumentMoniker": "Random\\main.cpp",
+              "ToolTip": "C:\\CppBasic\\Algorithm\\Random\\main.cpp*",
+              "RelativeToolTip": "Random\\main.cpp*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-24T01:56:10.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\CppBasic\\Algorithm\\BinarySearch\\main.cpp",
+              "RelativeDocumentMoniker": "BinarySearch\\main.cpp",
+              "ToolTip": "C:\\CppBasic\\Algorithm\\BinarySearch\\main.cpp",
+              "RelativeToolTip": "BinarySearch\\main.cpp",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAmwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-24T01:05:41.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

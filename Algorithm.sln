@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36908.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinarySearch", "BinarySearch\BinarySearch.vcxproj", "{81A7E208-4A69-4CE7-AC92-E4EBB9465116}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Random", "Random\Random.vcxproj", "{4D289F56-D07F-4536-8ABC-9E68CC77AE2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81A7E208-4A69-4CE7-AC92-E4EBB9465116}.Debug|x64.ActiveCfg = Debug|x64
+		{81A7E208-4A69-4CE7-AC92-E4EBB9465116}.Debug|x64.Build.0 = Debug|x64
+		{81A7E208-4A69-4CE7-AC92-E4EBB9465116}.Debug|x86.ActiveCfg = Debug|x64
+		{81A7E208-4A69-4CE7-AC92-E4EBB9465116}.Release|x64.ActiveCfg = Release|x64
+		{81A7E208-4A69-4CE7-AC92-E4EBB9465116}.Release|x64.Build.0 = Release|x64
+		{81A7E208-4A69-4CE7-AC92-E4EBB9465116}.Release|x86.ActiveCfg = Release|x64
+		{4D289F56-D07F-4536-8ABC-9E68CC77AE2D}.Debug|x64.ActiveCfg = Debug|x64
+		{4D289F56-D07F-4536-8ABC-9E68CC77AE2D}.Debug|x64.Build.0 = Debug|x64
+		{4D289F56-D07F-4536-8ABC-9E68CC77AE2D}.Debug|x86.ActiveCfg = Debug|x64
+		{4D289F56-D07F-4536-8ABC-9E68CC77AE2D}.Release|x64.ActiveCfg = Release|x64
+		{4D289F56-D07F-4536-8ABC-9E68CC77AE2D}.Release|x64.Build.0 = Release|x64
+		{4D289F56-D07F-4536-8ABC-9E68CC77AE2D}.Release|x86.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBDDEA42-51B8-4193-9E19-DD1D0D645FE9}
+	EndGlobalSection
+EndGlobal

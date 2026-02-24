@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\CppBasic\Algorithm\BinarySearch\main.cpp(40,1): warning C4715: 'RecursiveBinarySearch': not all control paths return a value
+  BinarySearch.vcxproj -> C:\CppBasic\Algorithm\Bin\Debug\BinarySearch\BinarySearch.exe
