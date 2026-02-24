@@ -63,6 +63,7 @@ int main()
 	//정렬
 	SelectionSort(array, length);
 	
+	//정렬 전 출력
 	std::cout << "정렬 후 배열: ";
 	PrintArrray(array, length);
 
