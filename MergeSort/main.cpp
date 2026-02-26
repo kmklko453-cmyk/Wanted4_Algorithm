@@ -15,8 +15,7 @@ void Merge(int* array, int* leftArray, int leftArrayLength,
 
 	// 왼쪽/오른쪽 배열 요소를 비교해 더 작은 배열의 요소를 
 	// array에 복사.
-	while (leftIndex < leftArrayLength
-		&& rightIndex < rightArrayLength)
+	while (leftIndex < leftArrayLength && rightIndex < rightArrayLength)
 	{
 		// 왼쪽 배열의 항목이 더 작으면 array에 설정.
 		if (leftArray[leftIndex] <= rightArray[rightIndex])
@@ -138,3 +137,11 @@ int main()
 
 
 }
+
+
+
+
+
+
+
+
