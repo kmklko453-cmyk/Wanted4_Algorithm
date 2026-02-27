@@ -13,8 +13,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{2cf30bdd-0839-4770-9383-5d1390ebc6ae}</ProjectGuid>
-    <RootNamespace>HeapSort</RootNamespace>
+    <ProjectGuid>{760c3ce3-4177-460b-9dd5-97fdbe97f982}</ProjectGuid>
+    <RootNamespace>ASterPathFinding</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -79,6 +79,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Navigation\AStar.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Navigation\AStar.h" />
+    <ClInclude Include="Navigation\Node.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
