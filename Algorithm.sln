@@ -19,7 +19,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MergeSort", "MergeSort\Merg
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HeapSort", "HeapSort\HeapSort.vcxproj", "{2CF30BDD-0839-4770-9383-5D1390EBC6AE}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ASterPathFinding", "ASterPathFinding\ASterPathFinding.vcxproj", "{760C3CE3-4177-460B-9DD5-97FDBE97F982}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AStarPathFinding", "AStarPathFinding\AStarPathFinding.vcxproj", "{1D5F97EC-0DBF-436D-93C7-1A79A89AB83B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -77,12 +77,14 @@ Global
 		{2CF30BDD-0839-4770-9383-5D1390EBC6AE}.Release|x64.ActiveCfg = Release|x64
 		{2CF30BDD-0839-4770-9383-5D1390EBC6AE}.Release|x64.Build.0 = Release|x64
 		{2CF30BDD-0839-4770-9383-5D1390EBC6AE}.Release|x86.ActiveCfg = Release|x64
-		{760C3CE3-4177-460B-9DD5-97FDBE97F982}.Debug|x64.ActiveCfg = Debug|x64
-		{760C3CE3-4177-460B-9DD5-97FDBE97F982}.Debug|x64.Build.0 = Debug|x64
-		{760C3CE3-4177-460B-9DD5-97FDBE97F982}.Debug|x86.ActiveCfg = Debug|x64
-		{760C3CE3-4177-460B-9DD5-97FDBE97F982}.Release|x64.ActiveCfg = Release|x64
-		{760C3CE3-4177-460B-9DD5-97FDBE97F982}.Release|x64.Build.0 = Release|x64
-		{760C3CE3-4177-460B-9DD5-97FDBE97F982}.Release|x86.ActiveCfg = Release|x64
+		{1D5F97EC-0DBF-436D-93C7-1A79A89AB83B}.Debug|x64.ActiveCfg = Debug|x64
+		{1D5F97EC-0DBF-436D-93C7-1A79A89AB83B}.Debug|x64.Build.0 = Debug|x64
+		{1D5F97EC-0DBF-436D-93C7-1A79A89AB83B}.Debug|x86.ActiveCfg = Debug|x64
+		{1D5F97EC-0DBF-436D-93C7-1A79A89AB83B}.Debug|x86.Build.0 = Debug|x64
+		{1D5F97EC-0DBF-436D-93C7-1A79A89AB83B}.Release|x64.ActiveCfg = Release|x64
+		{1D5F97EC-0DBF-436D-93C7-1A79A89AB83B}.Release|x64.Build.0 = Release|x64
+		{1D5F97EC-0DBF-436D-93C7-1A79A89AB83B}.Release|x86.ActiveCfg = Release|x64
+		{1D5F97EC-0DBF-436D-93C7-1A79A89AB83B}.Release|x86.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
