@@ -81,10 +81,12 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Partition\Bounds.cpp" />
     <ClCompile Include="Partition\Node.cpp" />
+    <ClCompile Include="Partition\QuadTree.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Partition\Bounds.h" />
     <ClInclude Include="Partition\Node.h" />
+    <ClInclude Include="Partition\QuadTree.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
